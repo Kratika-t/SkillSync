@@ -1,3 +1,3 @@
 # SkillSync
 
-[Click here to open the app](YOUR_VERCEL_URL_HERE)
+[Click here to open the app](npx plugins add vercel/vercel-plugin)
